@@ -1,4 +1,4 @@
-# # 🏃 Evaluador Deportivo
+# 🏃 Evaluador Deportivo
 
 Este proyecto permite registrar, analizar y comparar el rendimiento físico de un grupo de alumnos o jugadores. A través del cálculo de velocidad e IMC (Índice de Masa Corporal), el programa brinda estadísticas útiles para evaluar el estado físico de los participantes.
 
@@ -32,11 +32,11 @@ Este proyecto permite registrar, analizar y comparar el rendimiento físico de u
    ```bash
    pip install pandas
 
-# Si elegís importar los datos desde un archivo .csv, el formato debe ser el siguiente (separado por ;):
-//nombre;peso;altura;edad;distancia;tiempo
-Juan;70;1.75;20;100;12
-Ana;60;1.65;22;120;15
-Pedro;80;1.80;25;200;20//
+## Si elegís importar los datos desde un archivo .csv, el formato debe ser el siguiente (separado por ;):
+//nombre;peso;altura;edad;distancia;tiempo  
+Juan;70;1.75;20;100;12  
+Ana;60;1.65;22;120;15  
+Pedro;80;1.80;25;200;20//  
 
 ## 🗃️ Archivo incluido:
 corredores.csv (opcional): Archivo de ejemplo para cargar jugadores desde CSV.
